@@ -1,0 +1,11 @@
+PassengerId
+Pclass
+Age
+SibSp
+Parch
+Fare
+Sex_female
+Sex_male
+Embarked_C
+Embarked_Q
+Embarked_S
